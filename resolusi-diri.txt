@@ -2,3 +2,5 @@ Resolusi Diri
 - konsisten untuk belajar front end web developer
 - membuat portfolio
 - membuat web design
+- membuat web cv
+- membuat web app
